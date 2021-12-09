@@ -3,13 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Day4taskBook/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
-        <entry key="..\:/Users/Administrator/Downloads/day4task-main/day4task-main/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Day4BookFilter/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Day4BookFilter/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/build/classes" />
+    <output url="file://$PROJECT_DIR$/build/classes" />Users/Administrator/AndroidStudioProjects
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
